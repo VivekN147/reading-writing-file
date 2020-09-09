@@ -1,0 +1,3 @@
+Hello World, This is reading and writing file program using python.
+
+#for writing to file enter new file name.
